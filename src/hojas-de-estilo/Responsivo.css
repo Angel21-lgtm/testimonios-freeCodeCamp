@@ -1,0 +1,13 @@
+@media (min-width: 350px) {
+    .contenedor-testimonio {
+        max-width: 600px;
+        flex-wrap: wrap;
+    }
+} 
+
+@media (min-width: 900px) {
+    .contenedor-testimonio {
+        max-width: 1170px;
+        flex-wrap: nowrap;
+    }
+}
